@@ -1,6 +1,6 @@
 import { Check } from "lucide-react";
 import { useState } from "react";
-import Input from "./input";
+import Input from "Input";
 
 function AddTask({ addTask }) {
   const [title, setTitle] = useState("");
