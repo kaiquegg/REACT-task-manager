@@ -13,10 +13,10 @@ Este Task Manager foi desenvolvido com acompanhamento do curso da **FullStack Cl
 
 ## 📚 Aprendizados e Ferramentas Utilizadas
 
-- **⚛️ React (SPA):**
+- **⚛️ React:**
   - Componentização
-  - `useState`, `useEffect`, Props
-  - Boas práticas com JSX e nomeação em CamelCase
+  - `useState`, `useEffect`, Props e outros Hooks.
+  - Boas práticas com JSX e nomeação.
 
 - **🎨 Tailwind CSS:**
   - Estilização com classes utilitárias
@@ -34,19 +34,14 @@ Este Task Manager foi desenvolvido com acompanhamento do curso da **FullStack Cl
   - Integração com JSONPlaceholder
   - Uso de `fetch` e manipulação de estados com dados externos
 
-- **🔍 ESLint:**
-  - Padronização e qualidade de código
-
-- **🚀 Deploy via Vercel:**
-  - `npm run build` para produção
-  - Integração direta com repositório GitHub
+- **🔍 ESLint**
 
 ---
 
 ## 💡 Considerações Finais
 
-Esse projeto foi uma porta de entrada essencial para o mundo React. Me proporcionou conhecimento prático e visão mais clara sobre como aplicações modernas são estruturadas. Com ele, me sinto mais preparado para seguir explorando bibliotecas, frameworks e projetos mais robustos.
+Me proporcionou conhecimento prático e visão mais clara sobre como aplicações modernas são estruturadas. Com ele, me preparei para seguir explorando bibliotecas, frameworks e projetos mais robustos.
 
 ---
 
-**Desenvolvido por [Kaique](https://github.com/kaiquegg)**
+**Desenvolvido por [Kaique Egg](https://github.com/kaiquegg)**
